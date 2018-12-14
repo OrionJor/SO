@@ -2,7 +2,7 @@
 // nome: Orion Jorjuan 
 
 /*
-
+Implementação SJF
 Exemplo de execução
 Entrar com o número de processos:
 3
