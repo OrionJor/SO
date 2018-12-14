@@ -3,7 +3,7 @@
 
 
 /*
-
+Implementação FIFO
 Exemplo de execução
 Entrar com o número de processos:
 3
